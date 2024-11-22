@@ -5,3 +5,4 @@ scikit-learn
 hpelm
 StandardScaler
 ELM
+hpelm
